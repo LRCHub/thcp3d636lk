@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Listening For The Silence",
+  "base_artist": "P.O.D.",
+  "createdAt": "2026-03-16T07:50:14.591392Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Listening For The Silence",
+      "artist": "P.O.D.",
+      "has_synced": true,
+      "path": "select/01_Listening_For_The_Silence_P.O.D..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Listening for the Silence",
+      "artist": "P․O․D․",
+      "has_synced": true,
+      "path": "select/02_Listening_for_the_Silence_P.O.D..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Listening For The Silence (Paused)",
+      "artist": "P.O.D.",
+      "has_synced": true,
+      "path": "select/03_Listening_For_The_Silence_(Paused)_P.O.D..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Listening For The Silence",
+      "artist": "P.O.D. [Payable On Death]",
+      "has_synced": true,
+      "path": "select/04_Listening_For_The_Silence_P.O.D._[Payable_On_Death].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Listening for the Silence",
+      "artist": "P.O.D.",
+      "has_synced": false,
+      "path": "select/pl_01_Listening_for_the_Silence_P.O.D..txt"
+    }
+  ]
+}
